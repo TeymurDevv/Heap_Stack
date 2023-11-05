@@ -134,3 +134,22 @@ string SumOfThem(int[] numbers3, int counter)
 }
 Console.WriteLine(SumOfThem(numbers3, counter5));
 #endregion
+#region 7ci
+//7)Verilmish arrayin elementlerininden cut olanlarinin ceminin kvadratini tapmaq.
+int[] numbers4 = { 1, 2, 3, 45, 6, 7, 8, 9, 12 };
+int counter6 = 0;
+int GettingEvenNumbers(int[] numbers, int counter)
+{
+    foreach (int num in numbers)
+    {
+        if (num % 2 == 0)
+        {
+
+            counter += num;
+        }
+    }
+    return counter * counter;
+}
+
+Console.WriteLine(GettingEvenNumbers(numbers4, counter6));
+#endregion
