@@ -1,0 +1,14 @@
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\bin\Debug\net6.0\HeapStack.exe
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\bin\Debug\net6.0\HeapStack.deps.json
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\bin\Debug\net6.0\HeapStack.runtimeconfig.json
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\bin\Debug\net6.0\HeapStack.dll
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\bin\Debug\net6.0\HeapStack.pdb
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\obj\Debug\net6.0\HeapStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\obj\Debug\net6.0\HeapStack.AssemblyInfoInputs.cache
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\obj\Debug\net6.0\HeapStack.AssemblyInfo.cs
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\obj\Debug\net6.0\HeapStack.csproj.CoreCompileInputs.cache
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\obj\Debug\net6.0\HeapStack.dll
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\obj\Debug\net6.0\refint\HeapStack.dll
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\obj\Debug\net6.0\HeapStack.pdb
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\obj\Debug\net6.0\HeapStack.genruntimeconfig.cache
+C:\Users\TeymurDevv\Desktop\C#\HeapStack\HeapStack\obj\Debug\net6.0\ref\HeapStack.dll
